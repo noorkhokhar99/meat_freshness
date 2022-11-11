@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 
-`webcam_record.py`
+`jupyter notebook`
 
  
 
