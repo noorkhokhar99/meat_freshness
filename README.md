@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/Face-landmarks-detection---Opencv-with-Python/blob/main/Screen%20Shot%201444-04-14%20at%205.54.56%20PM.png">
+<img src="https://github.com/noorkhokhar99/meat_freshness/blob/main/Screen%20Shot%201444-04-16%20at%2011.09.23%20AM.png">
 </p>
 
 
