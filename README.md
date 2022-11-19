@@ -25,7 +25,7 @@ pip install -r requirements.txt
 `jupyter notebook`
 
  
-
+donwload dataset : https://www.kaggle.com/datasets/vinayakshanawad/meat-freshness-image-dataset/download?datasetVersionNumber=1
 
 <p align="center">
 <img src="https://github.com/noorkhokhar99/meat_freshness/blob/main/Screen%20Shot%201444-04-16%20at%2011.09.23%20AM.png">
